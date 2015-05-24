@@ -1,0 +1,6 @@
+---
+
+**Christoph Szepanski**,studierte Bibliotheksmanagement (BA) und
+Informationswissenschaften (MA) in Potsdam, ist seit 2012
+Redaktionsmitglied der LIBREAS. Library Ideas und beschäftigt sich seit
+seiner Masterthesis mit der Activity Theory.

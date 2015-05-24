@@ -130,5 +130,5 @@ be a key investment to LIS enlightenment.
 [^2]: Bates, M.J. (2007). "Defining the information disciplines in
     encyclopedia development" *Information Research*, 12(4) paper
     colis29. Retrieved from:
-    http://InformationR.net/ir/12-4/colis/colis29.html
+    <http://InformationR.net/ir/12-4/colis/colis29.html>
 

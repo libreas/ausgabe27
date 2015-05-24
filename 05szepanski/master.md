@@ -265,6 +265,8 @@ mehr Zeit für ein solches Vorhaben aufgewendet werden müsste, wobei
 unklar ist, ob die Ergebnisse am Ende über Allgemeinplätze hinaus gehen
 könnten.
 
+![Engeströms human activity system. (2001: 135)](img/abbildung1.png)
+
 Dies führt letztlich zu der These, dass Akteure nicht nur in Bezug auf
 die *Jagd nach neuen Informationen* bereit sind auf diese zu verzichten,
 wenn ihnen der Aufwand als zu groß erscheint und ihre Wissensbasis zur
@@ -313,6 +315,8 @@ komfortabler zu nutzender Interfaces, Filterfunktionen oder enger
 vernetzten Schnittstellen zwischen den Informationsmitteln und weniger
 mit Initiativen, die auf eine persönlicheren Kontakt (*embedded*) mit
 den Forschern hinauslaufen, unterstützen.
+
+![Handlungskette molekularmedizinischer Forschungsaktivität. (Roos 2012: online)](img/abbildung2.png)
 
 Die zweite Studie von Judith Brown et al. (2013) legt den Fokus auf die
 Erfassung und Strukturierung der in einem "großen Datencenter"
@@ -441,6 +445,9 @@ S.133-156. DOI: 10.1080/13639080020028747.
 
 FIDEL, Raya (2012): Human Information Interaction: An Ecological
 Approach to Information Behavior. Cambridge [u.a.] : MIT Press.
+
+GREIFENEDER, Elke (2014): Trends in information behaviour research. In: *Proceedings of ISIC, the Information Behaviour Conference*. Leeds, 2-5 September, 2014: Part 1. <http://www.informationr.net/ir/19-4/isic/isic13.html>
+
 
 HÄYRYNEN, Yrjö-Paavo (1999): Collapse, creation and continuity in
 Europe: how do people change? In: Engeström, Yrjö; Miettinen, Reijo und

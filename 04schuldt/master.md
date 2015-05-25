@@ -265,9 +265,9 @@ Studierenden.
     für Medizinberufe sowie Pädagogische Hochschulen dazu übergegangen
     sind, grosse Teile des Unterrichts in Form von evidenzbasierten
     Projekten zu organisieren, steht ein solcher Wandel in Bibliotheken
-    - trotz längerer Diskussionen und Projekte unter dem Titel "Evidence
+    -- trotz längerer Diskussionen und Projekte unter dem Titel "Evidence
     Based Library Practice" vor allem in Kanada, auf die regelmässig
-    verwiesen wird - aus. Die Studierenden sollen aber darauf
+    verwiesen wird -- aus. Die Studierenden sollen aber darauf
     vorbereitet werden, Prinzipien dieser evidenzbasierten Arbeitsweise
     nutzen zu können. Beide Autoren sehen eine solche Praxis, wenn sie
     reflektiert ist und nicht andere Formen der Wissensproduktion
@@ -300,7 +300,7 @@ Studierenden.
     ihre Arbeit als Teil des Fachdiskurses ansehen, dazu den Fachdiskurs
     aktiv verfolgen, sich darin verorten und auch über Publikationen zu
     ihm beitragen. Eine solche aktive Beteiligung wird nicht nur das
-    Selbstvertrauen der dann New Professionalsstärken, sondern auch zu
+    Selbstvertrauen der dann New Professionals stärken, sondern auch zu
     einem bibliothekarischen Diskurs führen, an dem sich, verglichen mit
     der jetzigen Situation, mehr Personen mit größerem Wissen und
     unterschiedlichen Meinungen beteiligen sowie die spätere Arbeit der
@@ -364,9 +364,9 @@ Kompetenzen in den Bibliotheken angestellt werden.
     Personen an der Arbeit in Bibliotheken.
 
 -   Wissenschaftliche Methoden in der Bibliothekspraxis würde die
-    Erkenntnis der Bibliothek über sich selber erhöhen - schon allein,
+    Erkenntnis der Bibliothek über sich selber erhöhen -- schon allein,
     da Wissenschaft immer auch ein Mittel zur Selbstaufklärung darstellt
-    - und somit dazu beitragen, dass die bibliothekarische Arbeit
+    -- und somit dazu beitragen, dass die bibliothekarische Arbeit
     qualitativ besser wird. Gleichzeitig würde so mehr Wissen produziert
     werden, das auch in den bibliothekswissenschaftlichen Diskurs
     einfliessen könnte.[^7]
@@ -498,7 +498,7 @@ Art der Nutzung von Bibliotheksräumen durchzuführen.
 
 #### Beispiel 2: Modul "Aktuelle Trends in Bibliothekswissenschaft und -praxis"
 
-Ziel diees Moduls, welches eingeführt wurde, bevor die beiden Autoren
+Ziel dieses Moduls, welches eingeführt wurde, bevor die beiden Autoren
 zur HTW Chur wechselten, war es, einen Ort zu schaffen, an dem den
 Studierenden flexibel die aktuellen Entwicklungen im Bibliotheksbereich
 vermittelt werden könnten. Das Modul wird am Ende des Studiums besucht,
@@ -509,7 +509,7 @@ ermöglicht dieses Modul zwar eine gewisse Flexibilität in der
 thematischen Gestaltung, was das Unterrichten interessanter macht.
 Allerdings widerspricht der Aufbau dem Ziel, Studierende mit einem
 zukunftsfähigen Wissen auszustatten, da der Eindruck entstehen könnte,
-dass einen einmalige Vermittlung von Zuknuftsthemen für das gesamte
+dass einen einmalige Vermittlung von Zukunftsthemen für das gesamte
 Berufsleben ausreichen würde. Ab dem Herbst 2012 wurde deshalb der
 Hauptaugenmerk darauf gelegt, mit den Studierenden Strategien und
 Methoden zu erarbeiten, die es ihnen ermöglichen, auch nach der
@@ -548,7 +548,7 @@ von Schreibenden als auch von Redaktionsmitgliedern erläutert, es werden
 je Durchführung des Moduls zwei Expertinnen und Experten eingeladen, die
 nicht nur aktuelle Themen besprechen, sondern gleichzeitig zeigen
 sollen, dass die Arbeit im Umfeld von Bibliotheken nicht nur in
-klassischen bibliothekarischen Aufgaben bestehen kann. Findet des Modul
+klassischen bibliothekarischen Aufgaben bestehen kann. Findet das Modul
 im Herbst statt, wird das seit drei Jahren an der HTW Chur durchgeführte
 Infocamp - ein zweitägiges Barcamp mit einem hohen Anteil an
 Impulsreferaten - ebenfalls in das Modul eingebunden. Die Studierenden
@@ -830,7 +830,7 @@ explizit in der Lehre verankert werden.
 Ebenso müssen die Studierenden auch die Möglichkeit erhalten, ihre
 Fähigkeiten im Berufsalltag einzubringen. Dazu bedarf es noch einer
 Öffnung seitens der schweizerischen Bibliotheken hin zu einer durch
-wissenschaftliche Methoden untermauerte Berufspraxis. Auchist es
+wissenschaftliche Methoden untermauerte Berufspraxis. Auch ist es
 überdies die Aufgabe der HTW Chur, diesen Einrichtungen bekannt zu
 machen, über welche Kompetenzen die Studierenden am Ende des Studiums
 verfügen und wie deren Fähigkeiten dazu beitragen, dass Bibliotheken

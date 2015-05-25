@@ -197,7 +197,7 @@ This leads consequently to a more fundamental consideration of the term
 ‘collection´: What are collections and on the base of which criteria may
 they be characterised?
 
-(1st) Collections show defined profiles which are determined by
+(1^st^) Collections show defined profiles which are determined by
 particular individuals as scientists, persons of public interest,
 collectors etc. or by thematic focuses of all kinds such as Special
 Subject Collections. Besides, quite a number of scientific libraries

@@ -594,7 +594,7 @@ Addison-Wesley.
     clicking as long as they sense (to mix metaphors) that they're
     getting warmer – the scent must keep getting stronger and stronger,
     or people give up.", unter anderem nachgewiesen hier:
-    [http://www.nngroup.com/articles/information-scent/](numbering.xml)
+    <http://www.nngroup.com/articles/information-scent/>
 
 [^6]: Externalisierung beschreibt die Neuentwicklung, beziehungsweise
     Transformation menschlich geschaffener Instrumente (A*rtefakte).*
@@ -607,7 +607,7 @@ Addison-Wesley.
     die britische University of Sheffield in Rahmen eines
     Forschungsprojektes diese Frage zu beantworten. Für weitere
     Informationen siehe dazu:
-    [https://www.sheffield.ac.uk/is/research/projects/sharedspace](styles.xml)
+    <https://www.sheffield.ac.uk/is/research/projects/sharedspace>
     (06.05.2015)
 
 [^9]: Häufig wird hierfür auch der Begriff "Tätigkeitssystem" verwendet.

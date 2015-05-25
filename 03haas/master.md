@@ -23,7 +23,7 @@ motivierte:
 -   "Nutzerorientierte Marktforschung für Bibliotheken. Eine
     Praxiseinführung" (D. Siegfried/S. Nix, 2014) und
 
--   " Bibliotheken erforschen ihren Alltag. Ein Plädoyer" (K. Schuldt
+-   "Bibliotheken erforschen ihren Alltag. Ein Plädoyer" (K. Schuldt
     2014).[^2]
 
 Alle drei Handbücher stellen Ethnografie als Forschungsmethodologie vor,

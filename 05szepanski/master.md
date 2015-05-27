@@ -31,7 +31,7 @@ angewiesen waren. Eine weitere Rolle hinsichtlich des Zustands der
 Theoriebildung und Methodendiskussion im Fach LIS spielt sicher auch der
 Umstand, dass das Studium per se auf einen relativ fest umrissenen
 Berufsstand mit verhältnismäßig klaren Tätigkeitsfeldern vorbereiten
-soll. Es erscheint aus dieser Perspektive, dass die Auseinandersetzung
+soll. Es erscheint aus dieser Perspektive zeckmäßig, dass die Auseinandersetzung
 mit eher praxisnahen Gegenständen wie Recherchefähigkeiten,
 Kennzahlenverständnis, die Beherrschung der aktuellen EDV und einiger
 Programmiersprachen, Managementtechniken oder das Befassen mit
@@ -99,7 +99,7 @@ Informationen finden zu wollen, Daten zu konsumieren oder sich in
 Informationsumwelten einfach nur treiben zu lassen. Die eigentliche,
 lebenswichtige Nahrungssuche erfolgt in hochentwickelten Gesellschaften
 zunehmend nachgeordnet. Marian Dörk et al. widmen sich aus dieser
-Perspektive des"Information Flaneur" heraus der ungerichteten
+Perspektive des "Information Flaneur" heraus der ungerichteten
 Informationssuche und liefern hier wichtige Impulse für das Interface
 Design (Dörk et al. 2011: 1222).
 
@@ -482,9 +482,7 @@ die (Bibliotheks- und) Informationswissenschaft sein? Ein
 Workshop-Bericht. In: LIBREAS.Library Ideas, 8 (2). S.92-99.
 
 KAPTELININ, Victor; MURSU, Anja und MACAULAY, Catriona (1999): The
-activity checklist: A tool for
-
-representing the "space" of context. In: Interactions, 6 (4). S.27-39.
+activity checklist: A tool for representing the "space" of context. In: Interactions, 6 (4). S.27-39.
 
 KAPTELININ, Victor und NARDI, Bonnie A. (2012): Activity theory in HCI.
 Fundamentals and reflections. San Rafael, Calif. : Morgan & Claypool.
@@ -539,9 +537,7 @@ Proceedings of 6^th^ International Conference on Enterprise Information
 Systems (6^th^ ICEIS).
 
 ROOS, Anniki (2012): Activity theory as a theoretical framework in the
-study of information practices in
-
-molecular medicine. In: Information Research, 17 (3), paper 526.
+study of information practices in molecular medicine. In: Information Research, 17 (3), paper 526.
 
 SHIRKY, Clay (2008): Here comes everybody: The power of organizing
 without organizations. New York : Penguin Press.

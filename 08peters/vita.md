@@ -10,5 +10,4 @@ to write for LIBREAS by the memory of her grandfather, a self-taught
 German-speaking African American who, the story goes, translated for
 Albert Einstein at a [*California Institute of Technology (Cal
 Tech)*](http://www.caltech.edu/) lecture in 1931. You can find her
-serious professional side on LinkedIn. California Institute of
-Technology (Cal Tech) lecture in 1931.
+serious professional side on LinkedIn.
